@@ -1,2 +1,2 @@
-# Esp32-Sensor
-# Sensor Script for measuring distance using ultrasonic sensor
+# Esp32-Code
+# Sensor Script for measuring distance using sensors
