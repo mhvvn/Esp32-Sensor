@@ -1,2 +1,3 @@
 # Esp32-Code
-Sensor Script for measuring distance using sensors
+1.DHT11 - temperature and humidity sensor and send report to blynk
+2. Active Infrared - Object detection and send notification to telegram
