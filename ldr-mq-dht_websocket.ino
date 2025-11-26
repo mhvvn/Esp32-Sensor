@@ -12,15 +12,15 @@
 // ======================= KONFIGURASI WIFI & CLOUD =======================
 
 // WiFi
-const char* ssid     = "myroom4G";
-const char* password = "myroom@123.";
+const char* ssid     = "yourssid";
+const char* password = "password.";
 
 // Google Apps Script Web App URL (doPost)
-const char* googleScriptUrl = "https://script.google.com/macros/s/AKfycbx6kAysvo6X6F_4gAy6dljssm3p7FIxCgAFYcAPKrq3hnDbM7n6maedRvSzjwjmTfmn/exec "; // GANTI dengan URL /exec kamu
+const char* googleScriptUrl = "url appscript "; // GANTI dengan URL /exec kamu
 
 // Telegram (bisa dikosongkan kalau belum dipakai)
-const char* telegramToken = "8206952577:AAEVX87mZwTNNJ3uy7cS9l8WkhVWdVb7Xao";
-const char* telegramChatId = "6201186762";
+const char* telegramToken = "telegrambot-token";
+const char* telegramChatId = "chat-id";
 
 // ======================= KONFIGURASI OLED =======================
 
